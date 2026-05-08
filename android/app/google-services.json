@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622597531367",
+    "project_id": "cajutel-e830f",
+    "storage_bucket": "cajutel-e830f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622597531367:android:c98d70c04baac6094ee442",
+        "android_client_info": {
+          "package_name": "com.example.cajutel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOo20IPibe-kB87rO4VwGHqWlZxEFnLnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
